@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+<!-->Caninemorph</!-->
+  <FacialAnimation.HeadTypeDef>
+    <defName>CaninemorphFHead</defName>
+    <texPath>Things/Pawn/XenohumanAnthro/Caninemorph/Heads_Blank/NormalF</texPath>
+	<gender>Female</gender>
+    <shader>Map/Transparent</shader>
+	<raceName>ATK_Caninemorph</raceName>
+  </FacialAnimation.HeadTypeDef>
+  
+    <FacialAnimation.HeadTypeDef>
+    <defName>CaninemorphMHead</defName>
+    <texPath>Things/Pawn/XenohumanAnthro/Caninemorph/Heads_Blank/NormalM</texPath>
+	<gender>Male</gender>
+    <shader>Map/Transparent</shader>
+	<raceName>ATK_Caninemorph</raceName>
+  </FacialAnimation.HeadTypeDef>
+<!-->Cervinemorph</!-->
+  <FacialAnimation.HeadTypeDef>
+    <defName>CervinemorphFHead</defName>
+    <texPath>Things/Pawn/XenohumanAnthro/Cervinemorph/Heads_Blank/NormalF</texPath>
+	<gender>Female</gender>
+    <shader>Map/CutoutComplex</shader>
+	<raceName>ATK_Cervinemorph</raceName>
+  </FacialAnimation.HeadTypeDef>
+  
+    <FacialAnimation.HeadTypeDef>
+    <defName>CervinemorphMHead</defName>
+    <texPath>Things/Pawn/XenohumanAnthro/Cervinemorph/Heads_Blank/NormalM</texPath>
+	<gender>Male</gender>
+    <shader>Map/CutoutComplex</shader>
+	<raceName>ATK_Cervinemorph</raceName>
+  </FacialAnimation.HeadTypeDef>
+<!-->Dragomorph</!-->
+  <FacialAnimation.HeadTypeDef>
+    <defName>DragomorphFHead</defName>
+    <texPath>Things/Pawn/XenohumanAnthro/Dragomorph/Heads_Blank/NormalF</texPath>
+	<gender>Female</gender>
+    <shader>Map/Transparent</shader>
+	<raceName>ATK_Dragomorph</raceName>
+  </FacialAnimation.HeadTypeDef>
+  
+    <FacialAnimation.HeadTypeDef>
+    <defName>DragomorphMHead</defName>
+    <texPath>Things/Pawn/XenohumanAnthro/Dragomorph/Heads_Blank/NormalM</texPath>
+	<gender>Male</gender>
+    <shader>Map/Transparent</shader>
+	<raceName>ATK_Dragomorph</raceName>
+  </FacialAnimation.HeadTypeDef>
+<!-->Felinemorph</!-->
+  <FacialAnimation.HeadTypeDef>
+    <defName>FelinemorphFHead</defName>
+    <texPath>Things/Pawn/XenohumanAnthro/Felinemorph/Heads_Blank/NormalF</texPath>
+	<gender>Female</gender>
+    <shader>Map/Transparent</shader>
+	<raceName>ATK_Felinemorph</raceName>
+  </FacialAnimation.HeadTypeDef>
+  
+    <FacialAnimation.HeadTypeDef>
+    <defName>FelinemorphMHead</defName>
+    <texPath>Things/Pawn/XenohumanAnthro/Felinemorph/Heads_Blank/NormalM</texPath>
+	<gender>Male</gender>
+    <shader>Map/Transparent</shader>
+	<raceName>ATK_Felinemorph</raceName>
+  </FacialAnimation.HeadTypeDef>
+<!-->Lagomorph</!-->
+  <FacialAnimation.HeadTypeDef>
+    <defName>LagomorphFHead</defName>
+    <texPath>Things/Pawn/XenohumanAnthro/Lagomorph/Heads_Blank/NormalF</texPath>
+	<gender>Female</gender>
+    <shader>Map/Transparent</shader>
+	<raceName>ATK_Lagomorph</raceName>
+  </FacialAnimation.HeadTypeDef>
+  
+    <FacialAnimation.HeadTypeDef>
+    <defName>LagomorphMHead</defName>
+    <texPath>Things/Pawn/XenohumanAnthro/Lagomorph/Heads_Blank/NormalM</texPath>
+	<gender>Male</gender>
+    <shader>Map/Transparent</shader>
+	<raceName>ATK_Lagomorph</raceName>
+  </FacialAnimation.HeadTypeDef>
+ <!-->Avianmorph</!-->
+  <FacialAnimation.HeadTypeDef>
+    <defName>AvianmorphFHead</defName>
+    <texPath>Things/Pawn/XenohumanAnthro/Avianmorph/Heads_Blank/NormalF</texPath>
+	<gender>Female</gender>
+    <shader>Map/Transparent</shader>
+	<raceName>ATK_Avianmorph</raceName>
+  </FacialAnimation.HeadTypeDef>
+  
+    <FacialAnimation.HeadTypeDef>
+    <defName>AvianmorphMHead</defName>
+    <texPath>Things/Pawn/XenohumanAnthro/Avianmorph/Heads_Blank/NormalM</texPath>
+	<gender>Male</gender>
+    <shader>Map/Transparent</shader>
+	<raceName>ATK_Avianmorph</raceName>
+  </FacialAnimation.HeadTypeDef>
+ <!-->Gnollmorph</!-->
+  <FacialAnimation.HeadTypeDef>
+    <defName>GnollmorphFHead</defName>
+    <texPath>Things/Pawn/XenohumanAnthro/Gnollmorph/Heads_Blank/NormalF</texPath>
+	<gender>Female</gender>
+    <shader>Map/Transparent</shader>
+	<raceName>ATK_Gnollmorph</raceName>
+  </FacialAnimation.HeadTypeDef>
+  
+    <FacialAnimation.HeadTypeDef>
+    <defName>GnollmorphMHead</defName>
+    <texPath>Things/Pawn/XenohumanAnthro/Gnollmorph/Heads_Blank/NormalM</texPath>
+	<gender>Male</gender>
+    <shader>Map/Transparent</shader>
+	<raceName>ATK_Gnollmorph</raceName>
+  </FacialAnimation.HeadTypeDef>
+ <!-->Bovinemorph</!-->
+  <FacialAnimation.HeadTypeDef>
+    <defName>BovinemorphFHead</defName>
+    <texPath>Things/Pawn/XenohumanAnthro/Bovinemorph/Heads_Blank/NormalF</texPath>
+    <shader>Map/CutoutComplex</shader>
+	<gender>Female</gender>
+	<raceName>ATK_Bovinemorph</raceName>
+  </FacialAnimation.HeadTypeDef>
+  
+    <FacialAnimation.HeadTypeDef>
+    <defName>BovinemorphMHead</defName>
+    <texPath>Things/Pawn/XenohumanAnthro/Bovinemorph/Heads_Blank/NormalM</texPath>
+	<gender>Male</gender>
+    <shader>Map/CutoutComplex</shader>
+	<raceName>ATK_Bovinemorph</raceName>
+  </FacialAnimation.HeadTypeDef>
+  
+  <!-->Vuulpinemorph</!-->
+  
+   <FacialAnimation.HeadTypeDef>
+    <defName>VulpinemorphFHead</defName>
+    <texPath>Things/Pawn/XenohumanAnthro/Vulpinemorph/Heads_Blank/NormalF</texPath>
+	<gender>Female</gender>
+    <shader>Map/Transparent</shader>
+	<raceName>ATK_Vulpinemorph</raceName>
+  </FacialAnimation.HeadTypeDef>
+  
+    <FacialAnimation.HeadTypeDef>
+    <defName>VulpinemorphMHead</defName>
+    <texPath>Things/Pawn/XenohumanAnthro/Vulpinemorph/Heads_Blank/NormalM</texPath>
+	<gender>Male</gender>
+    <shader>Map/Transparent</shader>
+	<raceName>ATK_Vulpinemorph</raceName>
+  </FacialAnimation.HeadTypeDef>
+  
+</Defs>
